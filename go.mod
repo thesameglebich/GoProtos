@@ -1,4 +1,4 @@
-module protos
+module github.com/thesameglebich/GoProtos
 
 go 1.21.5
 
